@@ -6,3 +6,5 @@ As the domain of machine learning concepts in increasing day by day implementati
 USPS : https://drive.google.com/file/d/1i4WRMEysEvK8emeZmOZPGQbEZ2n0nwhs/view?usp=sharing
 
 CIFAR-10 : https://drive.google.com/file/d/1FynLNaPfUQzJR_XuLhQ8ySKOgtAhpfhG/view?usp=sharing
+
+MNIST : https://drive.google.com/file/d/1GYzayEc3jm0DG5iHT_X7c2mW9L8BREWo/view?usp=sharing
