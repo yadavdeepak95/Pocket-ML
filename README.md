@@ -11,10 +11,12 @@ MNIST : https://drive.google.com/file/d/1GYzayEc3jm0DG5iHT_X7c2mW9L8BREWo/view?u
 
 MADELON : https://drive.google.com/file/d/1sWMgzko_gp9PDqNXzND1Y8jCqWPj76KP/view?usp=sharing
 
-DATASHEETS: https://drive.google.com/drive/folders/1ssVYkOslIatskB4C6sH00rloc4Ob6sTU?usp=sharing
-
 notMNIST : https://drive.google.com/file/d/1MNhOQlaNVlRUlijrEDOI6u8sd0iZ69yM/view?usp=sharing
   its a pickle file divided into 6 parts: Training(X and y) Validation (X and y) Test (X and y)
+  
+
+
+DATASHEET: https://docs.google.com/spreadsheets/d/16hGYOnnIhxAGH5N35hx52uj4TsDxReYNg7BG4OWbm8E/edit?usp=sharing
 
 Params Range : 0 to 25600
 Things to Note: Acc, Time for test vs Memory Size required.
