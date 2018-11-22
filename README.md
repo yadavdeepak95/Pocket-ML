@@ -9,7 +9,7 @@ CIFAR-10 : https://drive.google.com/file/d/1FynLNaPfUQzJR_XuLhQ8ySKOgtAhpfhG/vie
 
 MNIST : https://drive.google.com/file/d/1GYzayEc3jm0DG5iHT_X7c2mW9L8BREWo/view?usp=sharing
 
-
+MADELON : https://drive.google.com/file/d/1sWMgzko_gp9PDqNXzND1Y8jCqWPj76KP/view?usp=sharing
 
 Params Range : 0 to 25600
 Things to Note: Acc, Time for test vs Memory Size required.
