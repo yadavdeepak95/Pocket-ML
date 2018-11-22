@@ -11,6 +11,8 @@ MNIST : https://drive.google.com/file/d/1GYzayEc3jm0DG5iHT_X7c2mW9L8BREWo/view?u
 
 MADELON : https://drive.google.com/file/d/1sWMgzko_gp9PDqNXzND1Y8jCqWPj76KP/view?usp=sharing
 
+DATASHEETS: https://drive.google.com/drive/folders/1ssVYkOslIatskB4C6sH00rloc4Ob6sTU?usp=sharing
+
 Params Range : 0 to 25600
 Things to Note: Acc, Time for test vs Memory Size required.
   For each model with different memory sizes.
