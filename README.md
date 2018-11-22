@@ -8,3 +8,9 @@ USPS : https://drive.google.com/file/d/1i4WRMEysEvK8emeZmOZPGQbEZ2n0nwhs/view?us
 CIFAR-10 : https://drive.google.com/file/d/1FynLNaPfUQzJR_XuLhQ8ySKOgtAhpfhG/view?usp=sharing
 
 MNIST : https://drive.google.com/file/d/1GYzayEc3jm0DG5iHT_X7c2mW9L8BREWo/view?usp=sharing
+
+
+
+Params Range : 0 to 25600
+Things to Note: Acc, Time for test vs Memory Size required.
+  For each model with different memory sizes.
