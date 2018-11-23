@@ -14,7 +14,7 @@ MADELON : https://drive.google.com/file/d/1sWMgzko_gp9PDqNXzND1Y8jCqWPj76KP/view
 
 notMNIST : https://drive.google.com/file/d/1MNhOQlaNVlRUlijrEDOI6u8sd0iZ69yM/view?usp=sharing
   its a pickle file divided into 6 parts: Training(X and y) Validation (X and y) Test (X and y)
-  
+Preprocessed notMnist : https://drive.google.com/file/d/1lsZaNgL6YZzxwFYzTXPB2bd9TuEvLn6Y/view?usp=sharing
 
 
 DATASHEET: https://docs.google.com/spreadsheets/d/16hGYOnnIhxAGH5N35hx52uj4TsDxReYNg7BG4OWbm8E/edit?usp=sharing
