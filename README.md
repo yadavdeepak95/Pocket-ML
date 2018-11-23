@@ -8,6 +8,7 @@ USPS : https://drive.google.com/file/d/1i4WRMEysEvK8emeZmOZPGQbEZ2n0nwhs/view?us
 CIFAR-10 : https://drive.google.com/file/d/1FynLNaPfUQzJR_XuLhQ8ySKOgtAhpfhG/view?usp=sharing
 
 MNIST : https://drive.google.com/file/d/1GYzayEc3jm0DG5iHT_X7c2mW9L8BREWo/view?usp=sharing
+Mnist Preprocessed : https://drive.google.com/file/d/1G-uUFi7PBdGc_5SmbbeMKLeBXl7qD88X/view?usp=sharing
 
 MADELON : https://drive.google.com/file/d/1sWMgzko_gp9PDqNXzND1Y8jCqWPj76KP/view?usp=sharing
 
