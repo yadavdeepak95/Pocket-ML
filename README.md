@@ -2,6 +2,8 @@
 
 As the domain of machine learning concepts in increasing day by day implementation of those are very limited since they require huge resources. We aim to reduce the resources required for such concepts and to make them implementable in resource constrained device.
 
+Report : https://github.com/yadavdeepak95/Pocket-ML/blob/master/Pocket_ML.pdf
+
 ## Datasets
 
 USPS : https://drive.google.com/file/d/1i4WRMEysEvK8emeZmOZPGQbEZ2n0nwhs/view?usp=sharing
