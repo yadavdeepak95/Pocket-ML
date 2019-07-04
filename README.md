@@ -5,6 +5,7 @@ As the domain of machine learning concepts in increasing day by day implementati
 Report : https://github.com/yadavdeepak95/Pocket-ML/blob/master/Pocket_ML.pdf
 
 ## Datasets
+These are the datasets that were used for analysis (links might have expired).
 
 USPS : https://drive.google.com/file/d/1i4WRMEysEvK8emeZmOZPGQbEZ2n0nwhs/view?usp=sharing
 
